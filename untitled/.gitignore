@@ -1,0 +1,15 @@
+# Rust build artifacts
+/target/
+
+# IDE settings
+.idea/
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Other OS / editor junk
+Thumbs.db
